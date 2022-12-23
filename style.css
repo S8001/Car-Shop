@@ -1,0 +1,20 @@
+p {
+    font-size: 18px;
+}
+
+.main {
+    width: 100%;
+    background: url(colo.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh
+}
+
+.name {
+    color:deepskyblue
+}
+
+.boxes {
+    right: 50%;
+    left: 50%s;
+}

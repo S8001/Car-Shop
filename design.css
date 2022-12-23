@@ -1,0 +1,23 @@
+.main {
+    width: 100%;
+    background: url(colors.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh
+}
+
+p {
+    font-family: Verdana;
+    color: aquamarine;
+}
+
+.para {
+    font-size: 40px;
+    font-family: Verdana;
+    color: aquamarine;
+}
+
+h2 {
+    font-family: Verdana;
+    color: aquamarine;
+}
